@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/3.5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "robot-gladiators"
+	}
+}
