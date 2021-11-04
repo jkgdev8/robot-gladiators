@@ -222,7 +222,7 @@ var shop = function() {
   }
 };
 
-// function to set name
+// function to set name/
 var getPlayerName = function() {
   var name = "";
 
