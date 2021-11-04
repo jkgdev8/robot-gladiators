@@ -164,7 +164,7 @@ var startGame = function() {
   endGame();
 };
 
-// function to end the entire game
+// function to end the entire game////
 var endGame = function() {
   window.alert("The game has now ended. Let's see how you did!");
 
@@ -184,7 +184,7 @@ var endGame = function() {
     alert(playerInfo.name + " did not beat the high score of " + highScore + ". Maybe next time!");
   }
 
-  // ask player if they'd like to play again
+  // ask player if they'd like to play again//////////
   var playAgainConfirm = window.confirm("Would you like to play again?");
 
   if (playAgainConfirm) {
